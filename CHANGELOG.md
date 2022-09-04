@@ -2,6 +2,7 @@
 
 - Improved dashboard labels
 - Truncate queries longer than DB column size
+- CSP support
 
 ## 1.0.0 (2022-05-10)
 
